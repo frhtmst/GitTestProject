@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Deneme 1 2")
         print("gitgitgit")
+        print("git333")
+        
     }
 
 
