@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         print("sşfa")
         print("deneme mk")
         print("deneme mk")
-        
+        print("deneme mk")
+
     }
 
 
