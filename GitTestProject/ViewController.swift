@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("gitgitgit")
         print("git333")
         print("sşfa")
+        print("deneme mk")
         
     }
 
